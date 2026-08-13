@@ -12,7 +12,8 @@ Bahçecik Mesleki ve Teknik Anadolu Lisesi Bilişim Teknolojileri ve Yazılım a
 ---
 
 ### 📌 Öne Çıkan Projelerim
-- 💵 **[Banknot OCR Tanıma Projesi](https://github.com/nurarvenio/banknote-ocr-detection):** Kameradan gelen canlı görüntüyle Türk Lirası banknotlarını anlık olarak algılayan ve ayırt eden görüntü işleme uygulaması.
+- 💵 **[Banknot OCR Tanıma Projesi](https://github.com/nurarvenio/banknot-ocr-tespit):**
+-  Kameradan gelen canlı görüntüyle Türk Lirası banknotlarını anlık olarak algılayan ve ayıran görüntü işleme uygulaması. Kameradan gelen canlı görüntüyle Türk Lirası banknotlarını anlık olarak algılayan ve ayırt eden görüntü işleme uygulaması.
 
 ---
 
