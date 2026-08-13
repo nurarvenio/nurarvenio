@@ -18,8 +18,8 @@ Bahçecik Mesleki ve Teknik Anadolu Lisesi Bilişim Teknolojileri ve Yazılım a
 ---
 
 ### 📊 GitHub İstatistiklerim
-![Nur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nurarvenio&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nurarvenio&layout=compact&theme=tokyonight)
+![Nur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nurarvenio&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nurarvenio&layout=compact&theme=dracula)
 
 ---
 
