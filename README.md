@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Merhaba, Ben Nur Arven!
 
-<!--
-**nurarvenio/nurarvenio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bahçecik Mesleki ve Teknik Anadolu Lisesi Bilişim Teknolojileri ve Yazılım alanında öğrenciyim. Yazılım geliştirme, Python ve görüntü işleme (OCR) teknolojileri üzerine kendimi geliştiriyorum.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Kullandığım & Öğrendiğim Teknolojiler
+- **Diller:** Python (Temel & Orta Seviye)
+- **Görüntü İşleme / OCR:** OpenCV, EasyOCR
+- **Araçlar:** VS Code, Git & GitHub
+
+---
+
+### 📌 Öne Çıkan Projelerim
+- 💵 **[Banknot OCR Tanıma Projesi](https://github.com/nurarvenio/banknote-ocr-detection):** Kameradan gelen canlı görüntüyle Türk Lirası banknotlarını anlık olarak algılayan ve ayırt eden görüntü işleme uygulaması.
+
+---
+
+### 📊 GitHub İstatistiklerim
+![Nur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nurarvenio&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nurarvenio&layout=compact&theme=tokyonight)
+
+---
+
+📬 **İletişim:** `nurarven.io@gmail.com` , `esmanuraltintas.011@gmail.com`
